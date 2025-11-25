@@ -1,4 +1,4 @@
-# ArvoresBalanceadas_LeetCode
+# Grafos_LeetCode_20
 
 ## Alunos  
 | Matrícula | Nome |  
