@@ -10,7 +10,7 @@
 Para essa entrega nossa dupla optou pela prática de questões envolvendo grafos no LeetCode.
 
 ## Vídeo
-
+https://www.youtube.com/watch?v=gymxMY1mo7I
 
 ## Sobre as questões
 
