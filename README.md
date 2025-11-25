@@ -1,36 +1,51 @@
-# Repositório Template
-Repositório de Template para os projetos da disciplina 
-```
-Nome do Repositório (Apague este tópico)
-  O nome do repositório deve seguir o padrão <TemaProjeto>_<Nome Projeto>.
-  O nome do projeto deve representar o que foi implementado no mesmo (Ex:
-  Game xyz, Implementações Otimizadas de Algoritmos, Aplicativo xpto)
+# ArvoresBalanceadas_LeetCode
 
-Os temas de projeto são:  
- - Busca - Algoritmos de busca  
- - Ord_quad - Algoritmos de ordenação O(n²)  
- - Ord_nlogn - Algoritmos de ordenação O(n*log(n))  
- - Arv - Algoritmos de manipulação de Árvores  
- - Grafo - Algoritmos de manipulação de Grafos  
- 
- Ex: Busca_ConcorrenteDaGoogle
-```
 ## Alunos  
 | Matrícula | Nome |  
-|-----------------------|---------------------|  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
+|-----------|------|  
+| 200035703 | Breno Alexandre Soares Garcia |  
+| 211062900 | Caio Lucas Lelis Borges |  
+
 ## Descrição do projeto
-Aqui você deve dizer o objetivo deste projeto e o que realmente foi feito neste repositório.
-## Guia de instalação
-Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
-### Dependências do projeto
-### Como executar o projeto
-## Capturas de tela
-Neste tópico você deve adicionar imagens do funcionamento do projeto.  
- - As imagens devem ser salvas no repositório.
- - Imagens salvas em domínios eternos tendem a ficar indisponíveis e devem ser evitadas.   
+Para essa entrega nossa dupla optou pela prática de questões envolvendo grafos no LeetCode.
+
+## Vídeo
+
+
+## Sobre as questões
+
+### Questão 133(Breno Alexandre) - Clone Graph
+O que a questão pede:
+
+
+Como resolvi:
+
+
+### Questão 329(Breno Alexandre) - Longest Increasing Path in a Matrix
+O que a questão pede:
+
+
+Como resolvi:
+
+
+### Questão N(Caio Lelis) - nome da questao
+O que a questão pede:
+
+
+Como resolvi:
+
+
+### Questão N(Caio Lelis) - nome da questao
+O que a questão pede:
+
+
+Como resolvi:
+
+
 ## Conclusões
-Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
+A prátiva das questões nos ajudou bastante a fixar os conceitos de grafos, além de nos proporcionar o contato com diferentes tipos de problemas que podem ser resolvidos com essas estruturas de dados.
+
 ## Referências
-Caso tenha utilizado algum agoritmo como base, citar o mesmo devidamente para  evitar quaisquer denuncias de plágio.
+> LEETCODE. Problem 133 – Clone Graph. Disponível em: https://leetcode.com/problems/clone-graph. Acesso em: 24 nov. 2025.
+> 
+> LEETCODE. Problem 329 – Longest Increasing Path in a Matrix. Disponível em: https://leetcode.com/problems/longest-increasing-path-in-a-matrix. Acesso em: 24 nov. 2025.
